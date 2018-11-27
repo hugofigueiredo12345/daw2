@@ -5,7 +5,7 @@ Repositório dos projetos utilizados como exemplo na disciplina de Desenvolvimen
 2. Certifique-se que o Wildfly está executando;
 3. As configurações serão feitas via linha de comando. Para isso, acessem a pasta "<WILDFLY_HOME>\bin" e executem o seguinte comando:
 
-jboss-cli.bat
+`jboss-cli.bat`
 
 4. Execute os seguintes comandos adequando as partes em negrito:
 
